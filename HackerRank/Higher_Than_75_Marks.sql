@@ -4,4 +4,4 @@
 
 # 통과 문제풀이
 SELECT NAME FROM STUDENTS WHERE MARKS > 75 ORDER BY RIGHT(NAME, 3), ID; 
-# SUBSTRING, LEFT, RIGHT 함수의 쓰임새와 ORDER BY 뒤에 여러 조건을 ,로 이어줄 수 있다는 걸 배웠다.
+# SUBSTRING, LEFT, RIGHT 함수의 쓰임새와 ORDER BY 뒤에 여러 조건을 ','로 이어줄 수 있다는 걸 배웠다.
